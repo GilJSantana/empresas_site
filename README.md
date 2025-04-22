@@ -83,11 +83,3 @@ poetry run pytest
 Sinta-se à vontade para abrir *issues*, enviar *pull requests* ou sugerir melhorias! 💡
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
-Se quiser personalizar com o nome real do seu repositório, usuário ou estrutura exata, posso ajustar!
